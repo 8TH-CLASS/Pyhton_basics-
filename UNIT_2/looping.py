@@ -69,3 +69,26 @@ while i <= 3:
         print(j, end=" ")
     print()
     i = i + 1
+    
+    
+    
+    # Loop manipulation using pass
+
+# for loop with pass
+for i in range(1, 6):
+    if i == 3:
+        pass        # does nothing, loop continues
+    print(i)
+
+# while loop with pass
+i = 1
+while i <= 5:
+    if i == 2:
+        pass        # placeholder statement
+    print(i)
+    i = i + 1
+
+# empty loop body using pass
+for i in range(5):
+    pass            # loop executes with no action
+
