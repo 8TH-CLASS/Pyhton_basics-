@@ -1,4 +1,8 @@
-# Program to demonstrate if, if-else, if-elif-else, and nested if
+# Program to demonstrate 
+# if, 
+# if-else, 
+# if-elif-else, and
+# nested if
 
 num = 6
 
